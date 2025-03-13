@@ -1716,6 +1716,10 @@ PRODUCT_PACKAGES += \
     libmmrtpencoder_proprietary \
     libmulawdec \
     libnightvision \
+    libPerfectColor \
+    libarcsoft_long_exposure_capture \
+    libarcsoft_long_exposure_preview \
+    libaisd \
     libqcodec2_base \
     libqcodec2_basecodec \
     libqcodec2_core \
